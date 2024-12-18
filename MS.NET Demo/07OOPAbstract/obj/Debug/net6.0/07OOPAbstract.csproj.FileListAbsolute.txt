@@ -12,3 +12,4 @@ D:\Shreyas\MS.NET\MS.NET Demo\07OOPAbstract\obj\Debug\net6.0\refint\07OOPAbstrac
 D:\Shreyas\MS.NET\MS.NET Demo\07OOPAbstract\obj\Debug\net6.0\07OOPAbstract.pdb
 D:\Shreyas\MS.NET\MS.NET Demo\07OOPAbstract\obj\Debug\net6.0\07OOPAbstract.genruntimeconfig.cache
 D:\Shreyas\MS.NET\MS.NET Demo\07OOPAbstract\obj\Debug\net6.0\ref\07OOPAbstract.dll
+D:\Shreyas\MS.NET\MS.NET Demo\07OOPAbstract\obj\Debug\net6.0\07OOPAbstract.sourcelink.json

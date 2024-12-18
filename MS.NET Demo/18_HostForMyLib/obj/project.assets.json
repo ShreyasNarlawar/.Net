@@ -1,29 +1,12 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "17MyLib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/17MyLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/17MyLib.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "17MyLib/1.0.0": {
-      "type": "project",
-      "path": "../17_MyLib/17MyLib.csproj",
-      "msbuildProject": "../17_MyLib/17MyLib.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
     "net6.0": [
-      "17MyLib >= 1.0.0"
+      "D:\\Shreyas\\MS.NET\\MS.NET Demo\\17_MyLib\\17MyLib.csproj"
     ]
   },
   "packageFolders": {
@@ -33,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\18_HostForMyLib\\18HostForMyLib.csproj",
+      "projectUniqueName": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\18_HostForMyLib\\18HostForMyLib.csproj",
       "projectName": "18HostForMyLib",
-      "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\18_HostForMyLib\\18HostForMyLib.csproj",
+      "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\18_HostForMyLib\\18HostForMyLib.csproj",
       "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\18_HostForMyLib\\obj\\",
+      "outputPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\18_HostForMyLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +42,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\17_MyLib\\17MyLib.csproj": {
-              "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\17_MyLib\\17MyLib.csproj"
+            "D:\\Shreyas\\MS.NET\\MS.NET Demo\\17_MyLib\\17MyLib.csproj": {
+              "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\17_MyLib\\17MyLib.csproj"
             }
           }
         }
@@ -73,9 +56,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0": {
@@ -96,8 +79,19 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\Shreyas\\MS.NET\\MS.NET Demo\\17_MyLib\\17MyLib.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\17_MyLib\\17MyLib.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

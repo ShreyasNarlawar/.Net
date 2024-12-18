@@ -12,3 +12,4 @@ D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\refint\0
 D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\01StandardDotNetTemplate.pdb
 D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\01StandardDotNetTemplate.genruntimeconfig.cache
 D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\ref\01StandardDotNetTemplate.dll
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\01StandardDotNetTemplate.sourcelink.json

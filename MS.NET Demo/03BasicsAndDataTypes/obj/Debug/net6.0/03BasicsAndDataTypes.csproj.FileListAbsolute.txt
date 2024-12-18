@@ -12,3 +12,4 @@ D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\refint\03Bas
 D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\03BasicsAndDataTypes.pdb
 D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\03BasicsAndDataTypes.genruntimeconfig.cache
 D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\ref\03BasicsAndDataTypes.dll
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\03BasicsAndDataTypes.sourcelink.json

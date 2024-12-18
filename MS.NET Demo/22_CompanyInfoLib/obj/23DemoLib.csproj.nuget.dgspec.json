@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\22_CompanyInfoLib\\23DemoLib.csproj": {}
+    "D:\\Shreyas\\MS.NET\\MS.NET Demo\\22_CompanyInfoLib\\23DemoLib.csproj": {}
   },
   "projects": {
-    "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\22_CompanyInfoLib\\23DemoLib.csproj": {
+    "D:\\Shreyas\\MS.NET\\MS.NET Demo\\22_CompanyInfoLib\\23DemoLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\22_CompanyInfoLib\\23DemoLib.csproj",
+        "projectUniqueName": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\22_CompanyInfoLib\\23DemoLib.csproj",
         "projectName": "23DemoLib",
-        "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\22_CompanyInfoLib\\23DemoLib.csproj",
+        "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\22_CompanyInfoLib\\23DemoLib.csproj",
         "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-        "outputPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\22_CompanyInfoLib\\obj\\",
+        "outputPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\22_CompanyInfoLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

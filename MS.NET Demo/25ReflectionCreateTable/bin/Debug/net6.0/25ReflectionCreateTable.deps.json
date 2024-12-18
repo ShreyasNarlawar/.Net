@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "25ReflectionCreateTable/1.0.0": {
+        "dependencies": {
+          "26EmpLib": "1.0.0",
+          "27DBAttributeLib": "1.0.0"
+        },
+        "runtime": {
+          "25ReflectionCreateTable.dll": {}
+        }
+      },
+      "26EmpLib/1.0.0": {
+        "dependencies": {
+          "27DBAttributeLib": "1.0.0"
+        },
+        "runtime": {
+          "26EmpLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "27DBAttributeLib/1.0.0": {
+        "runtime": {
+          "27DBAttributeLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "25ReflectionCreateTable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "26EmpLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "27DBAttributeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

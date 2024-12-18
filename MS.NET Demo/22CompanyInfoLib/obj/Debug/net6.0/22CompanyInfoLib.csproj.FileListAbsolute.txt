@@ -1,0 +1,12 @@
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\bin\Debug\net6.0\22CompanyInfoLib.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\bin\Debug\net6.0\22CompanyInfoLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\bin\Debug\net6.0\22CompanyInfoLib.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\obj\Debug\net6.0\22CompanyInfoLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\obj\Debug\net6.0\22CompanyInfoLib.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\obj\Debug\net6.0\22CompanyInfoLib.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\obj\Debug\net6.0\22CompanyInfoLib.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\obj\Debug\net6.0\22CompanyInfoLib.sourcelink.json
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\obj\Debug\net6.0\22CompanyInfoLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\obj\Debug\net6.0\refint\22CompanyInfoLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\obj\Debug\net6.0\22CompanyInfoLib.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\22CompanyInfoLib\obj\Debug\net6.0\ref\22CompanyInfoLib.dll

@@ -1,0 +1,16 @@
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\26EmpLib.csproj.AssemblyReference.cache
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\26EmpLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\26EmpLib.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\26EmpLib.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\26EmpLib.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\26EmpLib.sourcelink.json
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\bin\Debug\net6.0\26EmpLib.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\bin\Debug\net6.0\26EmpLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\bin\Debug\net6.0\26EmpLib.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\bin\Debug\net6.0\27DBAttributeLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\bin\Debug\net6.0\27DBAttributeLib.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\26EmpLib.csproj.Up2Date
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\26EmpLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\refint\26EmpLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\26EmpLib.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\26EmpLib\obj\Debug\net6.0\ref\26EmpLib.dll

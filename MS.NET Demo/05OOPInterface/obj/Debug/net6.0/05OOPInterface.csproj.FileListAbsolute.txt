@@ -12,3 +12,4 @@ D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\refint\05OOPInterf
 D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\05OOPInterface.pdb
 D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\05OOPInterface.genruntimeconfig.cache
 D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\ref\05OOPInterface.dll
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\05OOPInterface.sourcelink.json

@@ -2,3 +2,8 @@ D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\20CMathLib\obj\Debug\net6.0\20CMathLi
 D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\20CMathLib\obj\Debug\net6.0\20CMathLib.AssemblyInfoInputs.cache
 D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\20CMathLib\obj\Debug\net6.0\20CMathLib.AssemblyInfo.cs
 D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\20CMathLib\obj\Debug\net6.0\20CMathLib.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\20CMathLib\obj\Debug\net6.0\20CMathLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\20CMathLib\obj\Debug\net6.0\20CMathLib.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\20CMathLib\obj\Debug\net6.0\20CMathLib.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\20CMathLib\obj\Debug\net6.0\20CMathLib.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\20CMathLib\obj\Debug\net6.0\20CMathLib.sourcelink.json

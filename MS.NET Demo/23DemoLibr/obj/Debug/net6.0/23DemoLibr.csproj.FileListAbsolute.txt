@@ -1,0 +1,16 @@
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\23DemoLibr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\23DemoLibr.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\23DemoLibr.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\23DemoLibr.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\23DemoLibr.sourcelink.json
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\bin\Debug\net6.0\23DemoLibr.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\bin\Debug\net6.0\23DemoLibr.dll
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\bin\Debug\net6.0\23DemoLibr.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\bin\Debug\net6.0\22CompanyInfoLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\bin\Debug\net6.0\22CompanyInfoLib.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\23DemoLibr.csproj.AssemblyReference.cache
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\23DemoLibr.csproj.Up2Date
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\23DemoLibr.dll
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\refint\23DemoLibr.dll
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\23DemoLibr.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\23DemoLibr\obj\Debug\net6.0\ref\23DemoLibr.dll

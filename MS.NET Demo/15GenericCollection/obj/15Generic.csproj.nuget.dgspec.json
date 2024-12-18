@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\15GenericCollection\\15Generic.csproj": {}
+    "D:\\Shreyas\\MS.NET\\MS.NET Demo\\15GenericCollection\\15Generic.csproj": {}
   },
   "projects": {
-    "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\15GenericCollection\\15Generic.csproj": {
+    "D:\\Shreyas\\MS.NET\\MS.NET Demo\\15GenericCollection\\15Generic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\15GenericCollection\\15Generic.csproj",
+        "projectUniqueName": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\15GenericCollection\\15Generic.csproj",
         "projectName": "15Generic",
-        "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\15GenericCollection\\15Generic.csproj",
+        "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\15GenericCollection\\15Generic.csproj",
         "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-        "outputPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\15GenericCollection\\obj\\",
+        "outputPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\15GenericCollection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,9 +43,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200-preview.0.24575.35\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

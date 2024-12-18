@@ -12,3 +12,4 @@ D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\refint\04OOPBasics.dl
 D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\04OOPBasics.pdb
 D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\04OOPBasics.genruntimeconfig.cache
 D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\ref\04OOPBasics.dll
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\04OOPBasics.sourcelink.json

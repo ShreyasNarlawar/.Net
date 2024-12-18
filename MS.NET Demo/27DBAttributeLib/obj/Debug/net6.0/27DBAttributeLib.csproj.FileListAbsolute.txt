@@ -1,0 +1,12 @@
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\bin\Debug\net6.0\27DBAttributeLib.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\bin\Debug\net6.0\27DBAttributeLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\bin\Debug\net6.0\27DBAttributeLib.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\obj\Debug\net6.0\27DBAttributeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\obj\Debug\net6.0\27DBAttributeLib.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\obj\Debug\net6.0\27DBAttributeLib.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\obj\Debug\net6.0\27DBAttributeLib.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\obj\Debug\net6.0\27DBAttributeLib.sourcelink.json
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\obj\Debug\net6.0\27DBAttributeLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\obj\Debug\net6.0\refint\27DBAttributeLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\obj\Debug\net6.0\27DBAttributeLib.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\27DBAttributeLib\obj\Debug\net6.0\ref\27DBAttributeLib.dll

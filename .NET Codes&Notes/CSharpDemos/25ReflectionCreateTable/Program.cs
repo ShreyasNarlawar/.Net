@@ -28,8 +28,7 @@ namespace _25ReflectionCreateTable
                             //Console.WriteLine(MySQLQuery);
                         }
                     }
-                    PropertyInfo[] allProperties = type.GetProperties();
-                    for (int j = 0;j < allProperties.Length; j++)
+                   	 < allProperties.Length; j++)
                     {
                         PropertyInfo prop = allProperties[j];
                         Attribute[] attributeOfProperties = prop.GetCustomAttributes().ToArray();

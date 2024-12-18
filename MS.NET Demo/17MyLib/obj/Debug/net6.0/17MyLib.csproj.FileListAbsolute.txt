@@ -9,3 +9,15 @@ D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\17MyLib\obj\Debug\net6.0\17MyLib.dll
 D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\17MyLib\obj\Debug\net6.0\refint\17MyLib.dll
 D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\17MyLib\obj\Debug\net6.0\17MyLib.pdb
 D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\17MyLib\obj\Debug\net6.0\ref\17MyLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\bin\Debug\net6.0\17MyLib.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\bin\Debug\net6.0\17MyLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\bin\Debug\net6.0\17MyLib.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\obj\Debug\net6.0\17MyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\obj\Debug\net6.0\17MyLib.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\obj\Debug\net6.0\17MyLib.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\obj\Debug\net6.0\17MyLib.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\obj\Debug\net6.0\17MyLib.sourcelink.json
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\obj\Debug\net6.0\17MyLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\obj\Debug\net6.0\refint\17MyLib.dll
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\obj\Debug\net6.0\17MyLib.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\17MyLib\obj\Debug\net6.0\ref\17MyLib.dll

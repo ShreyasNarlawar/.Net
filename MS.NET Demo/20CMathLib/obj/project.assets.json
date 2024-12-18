@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\20CMathLib\\20CMathLib.csproj",
+      "projectUniqueName": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\20CMathLib\\20CMathLib.csproj",
       "projectName": "20CMathLib",
-      "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\20CMathLib\\20CMathLib.csproj",
+      "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\20CMathLib\\20CMathLib.csproj",
       "packagesPath": "C:\\Users\\IET\\.nuget\\packages\\",
-      "outputPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\20CMathLib\\obj\\",
+      "outputPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\20CMathLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
