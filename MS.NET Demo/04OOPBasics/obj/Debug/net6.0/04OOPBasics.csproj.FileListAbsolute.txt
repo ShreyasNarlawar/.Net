@@ -1,0 +1,14 @@
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\bin\Debug\net6.0\04OOPBasics.exe
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\bin\Debug\net6.0\04OOPBasics.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\bin\Debug\net6.0\04OOPBasics.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\bin\Debug\net6.0\04OOPBasics.dll
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\bin\Debug\net6.0\04OOPBasics.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\04OOPBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\04OOPBasics.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\04OOPBasics.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\04OOPBasics.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\04OOPBasics.dll
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\refint\04OOPBasics.dll
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\04OOPBasics.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\04OOPBasics.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\04OOPBasics\obj\Debug\net6.0\ref\04OOPBasics.dll

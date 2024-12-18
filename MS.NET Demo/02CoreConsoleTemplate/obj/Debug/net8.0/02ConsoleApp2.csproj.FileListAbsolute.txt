@@ -1,0 +1,14 @@
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\bin\Debug\net8.0\02ConsoleApp2.exe
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\bin\Debug\net8.0\02ConsoleApp2.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\bin\Debug\net8.0\02ConsoleApp2.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\bin\Debug\net8.0\02ConsoleApp2.dll
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\bin\Debug\net8.0\02ConsoleApp2.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\obj\Debug\net8.0\02ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\obj\Debug\net8.0\02ConsoleApp2.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\obj\Debug\net8.0\02ConsoleApp2.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\obj\Debug\net8.0\02ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\obj\Debug\net8.0\02ConsoleApp2.dll
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\obj\Debug\net8.0\refint\02ConsoleApp2.dll
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\obj\Debug\net8.0\02ConsoleApp2.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\obj\Debug\net8.0\02ConsoleApp2.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\02CoreConsoleTemplate\obj\Debug\net8.0\ref\02ConsoleApp2.dll

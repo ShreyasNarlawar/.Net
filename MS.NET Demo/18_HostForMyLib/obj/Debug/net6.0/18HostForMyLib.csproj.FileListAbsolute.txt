@@ -1,0 +1,4 @@
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\18_HostForMyLib\obj\Debug\net6.0\18HostForMyLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\18_HostForMyLib\obj\Debug\net6.0\18HostForMyLib.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\18_HostForMyLib\obj\Debug\net6.0\18HostForMyLib.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\18_HostForMyLib\obj\Debug\net6.0\18HostForMyLib.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\bin\Debug\net6.0\03BasicsAndDataTypes.exe
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\bin\Debug\net6.0\03BasicsAndDataTypes.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\bin\Debug\net6.0\03BasicsAndDataTypes.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\bin\Debug\net6.0\03BasicsAndDataTypes.dll
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\bin\Debug\net6.0\03BasicsAndDataTypes.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\03BasicsAndDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\03BasicsAndDataTypes.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\03BasicsAndDataTypes.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\03BasicsAndDataTypes.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\03BasicsAndDataTypes.dll
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\refint\03BasicsAndDataTypes.dll
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\03BasicsAndDataTypes.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\03BasicsAndDataTypes.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\03BasicsAndDataTypes\obj\Debug\net6.0\ref\03BasicsAndDataTypes.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\OOPBasics\bin\Debug\net6.0\OOPBasics.exe
+C:\Users\IET\source\repos\OOPBasics\bin\Debug\net6.0\OOPBasics.deps.json
+C:\Users\IET\source\repos\OOPBasics\bin\Debug\net6.0\OOPBasics.runtimeconfig.json
+C:\Users\IET\source\repos\OOPBasics\bin\Debug\net6.0\OOPBasics.dll
+C:\Users\IET\source\repos\OOPBasics\bin\Debug\net6.0\OOPBasics.pdb
+C:\Users\IET\source\repos\OOPBasics\obj\Debug\net6.0\OOPBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\OOPBasics\obj\Debug\net6.0\OOPBasics.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\OOPBasics\obj\Debug\net6.0\OOPBasics.AssemblyInfo.cs
+C:\Users\IET\source\repos\OOPBasics\obj\Debug\net6.0\OOPBasics.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\OOPBasics\obj\Debug\net6.0\OOPBasics.dll
+C:\Users\IET\source\repos\OOPBasics\obj\Debug\net6.0\refint\OOPBasics.dll
+C:\Users\IET\source\repos\OOPBasics\obj\Debug\net6.0\OOPBasics.pdb
+C:\Users\IET\source\repos\OOPBasics\obj\Debug\net6.0\OOPBasics.genruntimeconfig.cache
+C:\Users\IET\source\repos\OOPBasics\obj\Debug\net6.0\ref\OOPBasics.dll

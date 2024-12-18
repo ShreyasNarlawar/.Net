@@ -1,0 +1,14 @@
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\bin\Debug\net6.0\01StandardDotNetTemplate.exe
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\bin\Debug\net6.0\01StandardDotNetTemplate.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\bin\Debug\net6.0\01StandardDotNetTemplate.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\bin\Debug\net6.0\01StandardDotNetTemplate.dll
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\bin\Debug\net6.0\01StandardDotNetTemplate.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\01StandardDotNetTemplate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\01StandardDotNetTemplate.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\01StandardDotNetTemplate.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\01StandardDotNetTemplate.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\01StandardDotNetTemplate.dll
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\refint\01StandardDotNetTemplate.dll
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\01StandardDotNetTemplate.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\01StandardDotNetTemplate.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\01StandardDotNetTemplate\obj\Debug\net6.0\ref\01StandardDotNetTemplate.dll

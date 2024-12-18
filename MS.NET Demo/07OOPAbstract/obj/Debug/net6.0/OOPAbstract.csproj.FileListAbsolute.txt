@@ -1,0 +1,14 @@
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\bin\Debug\net6.0\OOPAbstract.exe
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\bin\Debug\net6.0\OOPAbstract.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\bin\Debug\net6.0\OOPAbstract.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\bin\Debug\net6.0\OOPAbstract.dll
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\bin\Debug\net6.0\OOPAbstract.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\obj\Debug\net6.0\OOPAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\obj\Debug\net6.0\OOPAbstract.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\obj\Debug\net6.0\OOPAbstract.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\obj\Debug\net6.0\OOPAbstract.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\obj\Debug\net6.0\OOPAbstract.dll
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\obj\Debug\net6.0\refint\OOPAbstract.dll
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\obj\Debug\net6.0\OOPAbstract.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\obj\Debug\net6.0\OOPAbstract.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\OOPAbstract\obj\Debug\net6.0\ref\OOPAbstract.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IET\\source\\repos\\OOPInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{894C4FA9-2485-4AEA-A843-C952819ACE1F}|OOPInterface.csproj|c:\\users\\iet\\source\\repos\\oopinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894C4FA9-2485-4AEA-A843-C952819ACE1F}|OOPInterface.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IET\\source\\repos\\OOPInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\IET\\source\\repos\\OOPInterface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAA1wGYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T10:28:43.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

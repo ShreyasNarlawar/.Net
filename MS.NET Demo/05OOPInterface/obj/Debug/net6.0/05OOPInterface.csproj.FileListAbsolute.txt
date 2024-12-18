@@ -1,0 +1,14 @@
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\bin\Debug\net6.0\05OOPInterface.exe
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\bin\Debug\net6.0\05OOPInterface.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\bin\Debug\net6.0\05OOPInterface.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\bin\Debug\net6.0\05OOPInterface.dll
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\bin\Debug\net6.0\05OOPInterface.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\05OOPInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\05OOPInterface.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\05OOPInterface.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\05OOPInterface.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\05OOPInterface.dll
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\refint\05OOPInterface.dll
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\05OOPInterface.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\05OOPInterface.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\05OOPInterface\obj\Debug\net6.0\ref\05OOPInterface.dll

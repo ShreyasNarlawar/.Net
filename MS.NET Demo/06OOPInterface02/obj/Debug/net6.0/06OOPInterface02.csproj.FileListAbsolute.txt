@@ -1,0 +1,14 @@
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\bin\Debug\net6.0\06OOPInterface02.exe
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\bin\Debug\net6.0\06OOPInterface02.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\bin\Debug\net6.0\06OOPInterface02.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\bin\Debug\net6.0\06OOPInterface02.dll
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\bin\Debug\net6.0\06OOPInterface02.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\obj\Debug\net6.0\06OOPInterface02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\obj\Debug\net6.0\06OOPInterface02.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\obj\Debug\net6.0\06OOPInterface02.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\obj\Debug\net6.0\06OOPInterface02.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\obj\Debug\net6.0\06OOPInterface02.dll
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\obj\Debug\net6.0\refint\06OOPInterface02.dll
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\obj\Debug\net6.0\06OOPInterface02.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\obj\Debug\net6.0\06OOPInterface02.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\06OOPInterface02\obj\Debug\net6.0\ref\06OOPInterface02.dll

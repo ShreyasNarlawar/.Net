@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\OOPInterface\bin\Debug\net6.0\OOPInterface.exe
+C:\Users\IET\source\repos\OOPInterface\bin\Debug\net6.0\OOPInterface.deps.json
+C:\Users\IET\source\repos\OOPInterface\bin\Debug\net6.0\OOPInterface.runtimeconfig.json
+C:\Users\IET\source\repos\OOPInterface\bin\Debug\net6.0\OOPInterface.dll
+C:\Users\IET\source\repos\OOPInterface\bin\Debug\net6.0\OOPInterface.pdb
+C:\Users\IET\source\repos\OOPInterface\obj\Debug\net6.0\OOPInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\OOPInterface\obj\Debug\net6.0\OOPInterface.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\OOPInterface\obj\Debug\net6.0\OOPInterface.AssemblyInfo.cs
+C:\Users\IET\source\repos\OOPInterface\obj\Debug\net6.0\OOPInterface.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\OOPInterface\obj\Debug\net6.0\OOPInterface.dll
+C:\Users\IET\source\repos\OOPInterface\obj\Debug\net6.0\refint\OOPInterface.dll
+C:\Users\IET\source\repos\OOPInterface\obj\Debug\net6.0\OOPInterface.pdb
+C:\Users\IET\source\repos\OOPInterface\obj\Debug\net6.0\OOPInterface.genruntimeconfig.cache
+C:\Users\IET\source\repos\OOPInterface\obj\Debug\net6.0\ref\OOPInterface.dll

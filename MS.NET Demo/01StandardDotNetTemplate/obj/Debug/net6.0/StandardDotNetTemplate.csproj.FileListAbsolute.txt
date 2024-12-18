@@ -1,0 +1,14 @@
+C:\Users\IET\source\repos\StandardDotNetTemplate\bin\Debug\net6.0\StandardDotNetTemplate.exe
+C:\Users\IET\source\repos\StandardDotNetTemplate\bin\Debug\net6.0\StandardDotNetTemplate.deps.json
+C:\Users\IET\source\repos\StandardDotNetTemplate\bin\Debug\net6.0\StandardDotNetTemplate.runtimeconfig.json
+C:\Users\IET\source\repos\StandardDotNetTemplate\bin\Debug\net6.0\StandardDotNetTemplate.dll
+C:\Users\IET\source\repos\StandardDotNetTemplate\bin\Debug\net6.0\StandardDotNetTemplate.pdb
+C:\Users\IET\source\repos\StandardDotNetTemplate\obj\Debug\net6.0\StandardDotNetTemplate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\source\repos\StandardDotNetTemplate\obj\Debug\net6.0\StandardDotNetTemplate.AssemblyInfoInputs.cache
+C:\Users\IET\source\repos\StandardDotNetTemplate\obj\Debug\net6.0\StandardDotNetTemplate.AssemblyInfo.cs
+C:\Users\IET\source\repos\StandardDotNetTemplate\obj\Debug\net6.0\StandardDotNetTemplate.csproj.CoreCompileInputs.cache
+C:\Users\IET\source\repos\StandardDotNetTemplate\obj\Debug\net6.0\StandardDotNetTemplate.dll
+C:\Users\IET\source\repos\StandardDotNetTemplate\obj\Debug\net6.0\refint\StandardDotNetTemplate.dll
+C:\Users\IET\source\repos\StandardDotNetTemplate\obj\Debug\net6.0\StandardDotNetTemplate.pdb
+C:\Users\IET\source\repos\StandardDotNetTemplate\obj\Debug\net6.0\StandardDotNetTemplate.genruntimeconfig.cache
+C:\Users\IET\source\repos\StandardDotNetTemplate\obj\Debug\net6.0\ref\StandardDotNetTemplate.dll

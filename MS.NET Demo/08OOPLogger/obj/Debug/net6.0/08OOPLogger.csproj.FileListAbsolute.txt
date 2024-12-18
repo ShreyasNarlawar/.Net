@@ -1,0 +1,4 @@
+D:\Shreyas\MS.NET\MS.NET Demo\08OOPLogger\obj\Debug\net6.0\08OOPLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\08OOPLogger\obj\Debug\net6.0\08OOPLogger.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\08OOPLogger\obj\Debug\net6.0\08OOPLogger.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\08OOPLogger\obj\Debug\net6.0\08OOPLogger.csproj.CoreCompileInputs.cache

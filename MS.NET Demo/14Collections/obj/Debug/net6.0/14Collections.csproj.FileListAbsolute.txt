@@ -1,0 +1,14 @@
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\bin\Debug\net6.0\14Collections.exe
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\bin\Debug\net6.0\14Collections.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\bin\Debug\net6.0\14Collections.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\bin\Debug\net6.0\14Collections.dll
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\bin\Debug\net6.0\14Collections.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\obj\Debug\net6.0\14Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\obj\Debug\net6.0\14Collections.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\obj\Debug\net6.0\14Collections.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\obj\Debug\net6.0\14Collections.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\obj\Debug\net6.0\14Collections.dll
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\obj\Debug\net6.0\refint\14Collections.dll
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\obj\Debug\net6.0\14Collections.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\obj\Debug\net6.0\14Collections.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\14Collections\obj\Debug\net6.0\ref\14Collections.dll

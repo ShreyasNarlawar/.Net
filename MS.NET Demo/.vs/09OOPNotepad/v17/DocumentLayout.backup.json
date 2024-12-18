@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EC1C97C-40D2-49F3-99A5-3C8A2C5E0493}|21Reflection\\21Reflection.csproj|d:\\shreyas\\ms.net\\ms.net demo\\09oopnotepad\\21reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EC1C97C-40D2-49F3-99A5-3C8A2C5E0493}|21Reflection\\21Reflection.csproj|solutionrelative:21reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\21Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "21Reflection\\Program.cs",
+              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\09OOPNotepad\\21Reflection\\Program.cs",
+              "RelativeToolTip": "21Reflection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:36:38.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

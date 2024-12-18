@@ -1,0 +1,14 @@
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\bin\Debug\net6.0\12Delegate.exe
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\bin\Debug\net6.0\12Delegate.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\bin\Debug\net6.0\12Delegate.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\bin\Debug\net6.0\12Delegate.dll
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\bin\Debug\net6.0\12Delegate.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\obj\Debug\net6.0\12Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\obj\Debug\net6.0\12Delegate.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\obj\Debug\net6.0\12Delegate.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\obj\Debug\net6.0\12Delegate.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\obj\Debug\net6.0\12Delegate.dll
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\obj\Debug\net6.0\refint\12Delegate.dll
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\obj\Debug\net6.0\12Delegate.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\obj\Debug\net6.0\12Delegate.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\12Delegate\obj\Debug\net6.0\ref\12Delegate.dll
