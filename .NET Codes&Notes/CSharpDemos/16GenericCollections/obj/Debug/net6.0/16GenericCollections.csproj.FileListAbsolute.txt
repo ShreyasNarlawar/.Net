@@ -1,0 +1,15 @@
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\bin\Debug\net6.0\16GenericCollections.exe
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\bin\Debug\net6.0\16GenericCollections.deps.json
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\bin\Debug\net6.0\16GenericCollections.runtimeconfig.json
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\bin\Debug\net6.0\16GenericCollections.dll
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\bin\Debug\net6.0\16GenericCollections.pdb
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\obj\Debug\net6.0\16GenericCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\obj\Debug\net6.0\16GenericCollections.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\obj\Debug\net6.0\16GenericCollections.AssemblyInfo.cs
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\obj\Debug\net6.0\16GenericCollections.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\obj\Debug\net6.0\16GenericCollections.sourcelink.json
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\obj\Debug\net6.0\16GenericCollections.dll
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\obj\Debug\net6.0\refint\16GenericCollections.dll
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\obj\Debug\net6.0\16GenericCollections.pdb
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\obj\Debug\net6.0\16GenericCollections.genruntimeconfig.cache
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\16GenericCollections\obj\Debug\net6.0\ref\16GenericCollections.dll

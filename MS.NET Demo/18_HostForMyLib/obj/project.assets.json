@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "17MyLib/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/17MyLib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/17MyLib.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "17MyLib/1.0.0": {
+      "type": "project",
+      "path": "../17MyLib/17MyLib.csproj",
+      "msbuildProject": "../17MyLib/17MyLib.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "17MyLib >= 1.0.0",
       "D:\\Shreyas\\MS.NET\\MS.NET Demo\\17_MyLib\\17MyLib.csproj"
     ]
   },
@@ -42,6 +60,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\Shreyas\\MS.NET\\MS.NET Demo\\17MyLib\\17MyLib.csproj": {
+              "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\17MyLib\\17MyLib.csproj"
+            },
             "D:\\Shreyas\\MS.NET\\MS.NET Demo\\17_MyLib\\17MyLib.csproj": {
               "projectPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\17_MyLib\\17MyLib.csproj"
             }

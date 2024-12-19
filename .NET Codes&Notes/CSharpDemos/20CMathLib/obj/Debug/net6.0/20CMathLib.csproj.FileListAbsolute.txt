@@ -1,0 +1,12 @@
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\bin\Debug\net6.0\20CMathLib.deps.json
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\bin\Debug\net6.0\20CMathLib.dll
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\bin\Debug\net6.0\20CMathLib.pdb
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\obj\Debug\net6.0\20CMathLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\obj\Debug\net6.0\20CMathLib.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\obj\Debug\net6.0\20CMathLib.AssemblyInfo.cs
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\obj\Debug\net6.0\20CMathLib.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\obj\Debug\net6.0\20CMathLib.sourcelink.json
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\obj\Debug\net6.0\20CMathLib.dll
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\obj\Debug\net6.0\refint\20CMathLib.dll
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\obj\Debug\net6.0\20CMathLib.pdb
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\20CMathLib\obj\Debug\net6.0\ref\20CMathLib.dll

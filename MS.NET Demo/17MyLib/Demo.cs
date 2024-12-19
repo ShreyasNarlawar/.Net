@@ -6,10 +6,10 @@
         {
             Console.WriteLine("Addition = {0}", x+y);
         }
-        private void Sub(int x, int y)
-        {
-            Console.WriteLine("Sub = {0}", x - y);
-        }
+        //private void Sub(int x, int y)
+        //{
+        //    Console.WriteLine("Sub = {0}", x - y);
+        //}
         protected void Mult(int x, int y)
         {
             Console.WriteLine("Mult = {0}", x * y);

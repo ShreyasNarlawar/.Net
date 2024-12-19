@@ -9,6 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\17MyLib\17MyLib.csproj" />
     <ProjectReference Include="..\17_MyLib\17MyLib.csproj" />
   </ItemGroup>
 

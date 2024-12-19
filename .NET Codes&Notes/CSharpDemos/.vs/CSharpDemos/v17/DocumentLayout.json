@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Shreyas\\MS.NET\\.NET Codes\u0026Notes\\CSharpDemos\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9407C5C-EC30-4C75-B96C-B5CA140D4A5C}|21Reflection\\21Reflection.csproj|d:\\shreyas\\ms.net\\.net codes\u0026notes\\csharpdemos\\21reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9407C5C-EC30-4C75-B96C-B5CA140D4A5C}|21Reflection\\21Reflection.csproj|solutionrelative:21reflection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\.NET Codes\u0026Notes\\CSharpDemos\\21Reflection\\Program.cs",
+              "RelativeDocumentMoniker": "21Reflection\\Program.cs",
+              "ToolTip": "D:\\Shreyas\\MS.NET\\.NET Codes\u0026Notes\\CSharpDemos\\21Reflection\\Program.cs",
+              "RelativeToolTip": "21Reflection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T12:15:07.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

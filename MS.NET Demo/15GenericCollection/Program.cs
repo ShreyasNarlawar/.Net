@@ -12,52 +12,52 @@
             //CMath obj = new CMath();
             //int p = 10;
             //int q = 20;
-            //Console.WriteLine("Before Swap : P ={0} , Q = {1}",p,q);
+            //Console.WriteLine("Before Swap : P ={0} , Q = {1}", p, q);
 
             ////to pass arguments to a method there are two ways:
             //// obj.Swap(p, q); //1. Pass by Value
             ////2. Pass by refernce
-            //obj.Swap(ref p,ref q);
-            //Console.WriteLine("After Swap : P ={0} , Q = {1}",p,q);
+            //obj.Swap(ref p, ref q);
+            //Console.WriteLine("After Swap : P ={0} , Q = {1}", p, q);
 
             ////out parameter
             //int sum, product;
-            //obj.Calculate(2, 3,out sum,out product);
+            //obj.Calculate(2, 3, out sum, out product);
             //Console.WriteLine($"Sum :{sum} , Product:{product} "); 
             #endregion
 
             #region Generic Class , Dynamic Type 
-            //CMath<int> obj = new CMath<int>();
-            //int p = 10, q = 20;
+            CMath<int> obj = new CMath<int>();
+            int p = 10, q = 20;
 
+            Console.WriteLine("Before Swap : P ={0} , Q = {1}", p, q);
+            obj.Swap(ref p, ref q);
+            Console.WriteLine("After Swap : P ={0} , Q = {1}", p, q);
+
+            Console.WriteLine("-----------------------------------");
+
+            //This is not allowed in Generic Class Type <int>
+            //string s1 = "abc", s2 = "pqr";
+            //Console.WriteLine("Before Swap : s1 ={0} , s2 = {1}", s1, s2);
+            //obj.Swap(ref s1, ref s2);
+            //Console.WriteLine("After Swap : s1 ={0} , s2 = {1}", s1, s2);
+
+            #region generic methods <> 
             //Console.WriteLine("Before Swap : P ={0} , Q = {1}", p, q);
-            //obj.Swap(ref p, ref q);
+            //obj.Swap<int>(ref p,ref q);
             //Console.WriteLine("After Swap : P ={0} , Q = {1}", p, q);
 
             //Console.WriteLine("-----------------------------------");
 
-            ////This is not allowed in Generic Class Type <int>
-            ////string s1 = "abc", s2 = "pqr";
-            ////Console.WriteLine("Before Swap : s1 ={0} , s2 = {1}", s1, s2);
-            ////obj.Swap(ref s1, ref s2);
-            ////Console.WriteLine("After Swap : s1 ={0} , s2 = {1}", s1, s2);
+            //string s1 = "abc", s2 = "pqr";
+            //Console.WriteLine("Before Swap : s1 ={0} , s2 = {1}", s1, s2);
+            //obj.Swap<string>(ref s1, ref s2);
+            //Console.WriteLine("After Swap : s1 ={0} , s2 = {1}", s1, s2); 
+            #endregion
 
-            //#region generic methods <> 
-            ////Console.WriteLine("Before Swap : P ={0} , Q = {1}", p, q);
-            ////obj.Swap<int>(ref p,ref q);
-            ////Console.WriteLine("After Swap : P ={0} , Q = {1}", p, q);
-
-            ////Console.WriteLine("-----------------------------------");
-
-            ////string s1 = "abc", s2 = "pqr";
-            ////Console.WriteLine("Before Swap : s1 ={0} , s2 = {1}", s1, s2);
-            ////obj.Swap<string>(ref s1, ref s2);
-            ////Console.WriteLine("After Swap : s1 ={0} , s2 = {1}", s1, s2); 
-            //#endregion
-
-            //int sum, product;
-            //obj.Calculate(2, 3, out sum, out product);
-            //Console.WriteLine($"Sum :{sum} , Product:{product} ");  
+            int sum, product;
+            obj.Calculate(2, 3, out sum, out product);
+            Console.WriteLine($"Sum :{sum} , Product:{product} ");  
             #endregion
 
             #region Generic Multiple Parameters 
@@ -91,13 +91,13 @@
             x = y;
             y = temp;
         }
-        //public void Swap(ref string x, ref string  y)
-        //{
-        //    string temp;
-        //    temp = x;
-        //    x = y;
-        //    y = temp;
-        //}
+        public void Swap(ref string x, ref string y)
+        {
+            string temp;
+            temp = x;
+            x = y;
+            y = temp;
+        }
         //pN MEthod(p1,p2,p3,p4....out bool/ int/Emp pN)
         public void Calculate(T x, T y,out T sum,out T product)
         {

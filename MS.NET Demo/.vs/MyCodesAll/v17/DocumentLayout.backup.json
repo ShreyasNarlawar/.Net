@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F805A40-B194-4150-A4D9-FE496EE1B13B}|25ReflectionCreateTable\\25ReflectionCreateTable.csproj|d:\\shreyas\\ms.net\\ms.net demo\\25reflectioncreatetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F805A40-B194-4150-A4D9-FE496EE1B13B}|25ReflectionCreateTable\\25ReflectionCreateTable.csproj|solutionrelative:25reflectioncreatetable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4578EFDD-94F9-4700-8EAB-7517925EF734}|28CSharpFeatures\\28CSharpFeatures.csproj|d:\\shreyas\\ms.net\\ms.net demo\\28csharpfeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4578EFDD-94F9-4700-8EAB-7517925EF734}|28CSharpFeatures\\28CSharpFeatures.csproj|solutionrelative:28csharpfeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\25ReflectionCreateTable\\Program.cs",
-              "RelativeDocumentMoniker": "25ReflectionCreateTable\\Program.cs",
-              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\25ReflectionCreateTable\\Program.cs*",
-              "RelativeToolTip": "25ReflectionCreateTable\\Program.cs*",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwDEAAAAPAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\28CSharpFeatures\\Program.cs",
+              "RelativeDocumentMoniker": "28CSharpFeatures\\Program.cs",
+              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\28CSharpFeatures\\Program.cs*",
+              "RelativeToolTip": "28CSharpFeatures\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAKcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T12:20:33.768Z",
+              "WhenOpened": "2024-12-19T12:37:46.094Z",
               "EditorCaption": ""
             }
           ]

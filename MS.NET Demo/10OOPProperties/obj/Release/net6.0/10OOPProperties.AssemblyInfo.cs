@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("10OOPProperties")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+082d984d51f39039387a74db71514600418c8d1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("10OOPProperties")]
 [assembly: System.Reflection.AssemblyTitleAttribute("10OOPProperties")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

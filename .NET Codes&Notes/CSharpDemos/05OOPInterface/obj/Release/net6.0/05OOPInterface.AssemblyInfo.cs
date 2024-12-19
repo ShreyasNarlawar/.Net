@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("05OOPInterface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd99c10d376c3b413e865a47eb4707d392939b25")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+082d984d51f39039387a74db71514600418c8d1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("05OOPInterface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("05OOPInterface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

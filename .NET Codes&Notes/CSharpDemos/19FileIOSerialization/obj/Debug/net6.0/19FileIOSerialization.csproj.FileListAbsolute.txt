@@ -1,0 +1,15 @@
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\bin\Debug\net6.0\19FileIOSerialization.exe
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\bin\Debug\net6.0\19FileIOSerialization.deps.json
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\bin\Debug\net6.0\19FileIOSerialization.runtimeconfig.json
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\bin\Debug\net6.0\19FileIOSerialization.dll
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\bin\Debug\net6.0\19FileIOSerialization.pdb
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\obj\Debug\net6.0\19FileIOSerialization.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\obj\Debug\net6.0\19FileIOSerialization.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\obj\Debug\net6.0\19FileIOSerialization.AssemblyInfo.cs
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\obj\Debug\net6.0\19FileIOSerialization.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\obj\Debug\net6.0\19FileIOSerialization.sourcelink.json
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\obj\Debug\net6.0\19FileIOSerialization.dll
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\obj\Debug\net6.0\refint\19FileIOSerialization.dll
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\obj\Debug\net6.0\19FileIOSerialization.pdb
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\obj\Debug\net6.0\19FileIOSerialization.genruntimeconfig.cache
+D:\Shreyas\MS.NET\.NET Codes&Notes\CSharpDemos\19FileIOSerialization\obj\Debug\net6.0\ref\19FileIOSerialization.dll

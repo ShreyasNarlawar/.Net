@@ -7,7 +7,7 @@ namespace _21Reflection
         //System.Int32 Add(System.Int32 x, System.Int32 y);
         static void Main(string[] args)
         {
-            string assemblyPath = @"D:\Shreyas\MS.NET\MS.NET Demo\09OOPNotepad\21Reflection\bin\Debug\net6.0\21Reflection";
+            string assemblyPath = @"D:\Shreyas\MS.NET\MS.NET Demo\20CMathLib\bin\Debug\net6.0\20CMathLib.dll";
             Assembly asm = Assembly.LoadFrom(assemblyPath);
             Type[] types = asm.GetTypes();
             #region Name, Full Name of Assembly Type 
