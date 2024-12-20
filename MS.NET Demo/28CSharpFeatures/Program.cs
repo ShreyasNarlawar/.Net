@@ -172,6 +172,21 @@ namespace _28CSharpFeatures
             //else
             //    Console.WriteLine("Invalid Gmail");
             #endregion
+            #region Partial Methods
+            //Person p = new Person();
+            //p.id = 1;
+            //p.name = "Tommy";
+            #endregion
+            #region Names and Optional PArameters
+            //Display(11, "Shrey", "Nanded");
+            //Display(20);
+            //Display(32,name:"shreyaa",city:"Delhii");
+            #endregion
+        }
+        //public static void Display(int id, string name, string city)
+        public static void Display(int id, string name = "krrish", string city= "Mumbai")
+        {
+            Console.WriteLine($"Id={id},Name={name},city ={city}");
         }
 
         private static void DoSomething(object v3)
@@ -189,6 +204,46 @@ namespace _28CSharpFeatures
         private static bool Check(int input)
         {
             return input > 10;
+        }
+    }
+    public partial class Person
+    {
+        partial void DoValidate(string NameofProperty, object ValueofProperty)
+        {
+            switch (NameofProperty)
+            {
+                case "id":
+                    break;
+                case "name":
+                    break;
+                default:
+                    break;
+            }
+        }
+    }
+    public partial class Person
+    {
+        partial void DoValidate(string NameofProperty, object ValueofProperty);
+        private int _id;
+        private string _name;
+
+        public string name
+        {
+            get { return _name; }
+            set
+            {
+                DoValidate("name", value);
+                _name = value;
+            }
+        }
+        public int id
+        {
+            get { return _id; }
+            set
+            {
+                DoValidate("id", value);
+                _id = value;
+            }
         }
     }
 
@@ -273,16 +328,16 @@ namespace _28CSharpFeatures
 
     }
     public class Weeks : IEnumerable
+    {
+        private String[] days = new String[]
+        {"Monday","Tuesday","Wednesday","Thursday","Friday","Funday"};
+        public IEnumerator GetEnumerator()
         {
-            private String[] days = new String[]
-            {"Monday","Tuesday","Wednesday","Thursday","Friday","Funday"};
-            public IEnumerator GetEnumerator()
+            for (int i = 0; i < days.Length; i++)
             {
-                for (int i = 0; i < days.Length; i++)
-                {
-                    string day = days[i];
-                    yield return day;
-                }
+                string day = days[i];
+                yield return day;
+            }
         }
     }
     public static class MyClass
@@ -298,8 +353,7 @@ namespace _28CSharpFeatures
         }
         public static bool checkforValidEmail(this string str)
         {
-            return str.Contains("@")? true: false;
+            return str.Contains("@") ? true : false;
         }
     }
 }
-

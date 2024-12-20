@@ -1,0 +1,15 @@
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\bin\Debug\net6.0\29LinQ.exe
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\bin\Debug\net6.0\29LinQ.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\bin\Debug\net6.0\29LinQ.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\bin\Debug\net6.0\29LinQ.dll
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\bin\Debug\net6.0\29LinQ.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\obj\Debug\net6.0\29LinQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\obj\Debug\net6.0\29LinQ.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\obj\Debug\net6.0\29LinQ.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\obj\Debug\net6.0\29LinQ.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\obj\Debug\net6.0\29LinQ.sourcelink.json
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\obj\Debug\net6.0\29LinQ.dll
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\obj\Debug\net6.0\refint\29LinQ.dll
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\obj\Debug\net6.0\29LinQ.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\obj\Debug\net6.0\29LinQ.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\29LinQ\obj\Debug\net6.0\ref\29LinQ.dll
