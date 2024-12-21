@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20CMathLib", "20CMathLib\20
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29LinQ", "29LinQ\29LinQ.csproj", "{ED07B634-C0DB-4377-9CD9-3145ACDA1B95}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31ConnectedArchitecture", "31ConnectedArchitecture\31ConnectedArchitecture.csproj", "{619EF357-907B-47F4-9D70-040DC85B2D63}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -181,6 +183,10 @@ Global
 		{ED07B634-C0DB-4377-9CD9-3145ACDA1B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED07B634-C0DB-4377-9CD9-3145ACDA1B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED07B634-C0DB-4377-9CD9-3145ACDA1B95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619EF357-907B-47F4-9D70-040DC85B2D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619EF357-907B-47F4-9D70-040DC85B2D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619EF357-907B-47F4-9D70-040DC85B2D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619EF357-907B-47F4-9D70-040DC85B2D63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
