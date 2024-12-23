@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("31ConnectedArchitecture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8292e46d42dca3c908f59516ed7d39a161e34b12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7482022a13368033fc159693e6d65f126810040a")]
 [assembly: System.Reflection.AssemblyProductAttribute("31ConnectedArchitecture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("31ConnectedArchitecture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

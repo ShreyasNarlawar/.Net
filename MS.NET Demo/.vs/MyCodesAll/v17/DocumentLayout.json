@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{619EF357-907B-47F4-9D70-040DC85B2D63}|31ConnectedArchitecture\\31ConnectedArchitecture.csproj|d:\\shreyas\\ms.net\\ms.net demo\\31connectedarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{619EF357-907B-47F4-9D70-040DC85B2D63}|31ConnectedArchitecture\\31ConnectedArchitecture.csproj|solutionrelative:31connectedarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{619EF357-907B-47F4-9D70-040DC85B2D63}|31ConnectedArchitecture\\31ConnectedArchitecture.csproj|d:\\shreyas\\ms.net\\ms.net demo\\31connectedarchitecture\\dal\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{619EF357-907B-47F4-9D70-040DC85B2D63}|31ConnectedArchitecture\\31ConnectedArchitecture.csproj|solutionrelative:31connectedarchitecture\\dal\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C909A70A-B2CF-4D1C-B71B-663AAAF0FB33}|32DisconnectedArch\\32DisconnectedArch.csproj|d:\\shreyas\\ms.net\\ms.net demo\\32disconnectedarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C909A70A-B2CF-4D1C-B71B-663AAAF0FB33}|32DisconnectedArch\\32DisconnectedArch.csproj|solutionrelative:32disconnectedarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MyDBContext.cs",
-              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\31ConnectedArchitecture\\DAL\\MyDBContext.cs",
-              "RelativeDocumentMoniker": "31ConnectedArchitecture\\DAL\\MyDBContext.cs",
-              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\31ConnectedArchitecture\\DAL\\MyDBContext.cs",
-              "RelativeToolTip": "31ConnectedArchitecture\\DAL\\MyDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T10:07:03.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "program.cs",
-              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\31ConnectedArchitecture\\program.cs",
-              "RelativeDocumentMoniker": "31ConnectedArchitecture\\program.cs",
-              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\31ConnectedArchitecture\\program.cs",
-              "RelativeToolTip": "31ConnectedArchitecture\\program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\32DisconnectedArch\\Program.cs",
+              "RelativeDocumentMoniker": "32DisconnectedArch\\Program.cs",
+              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.NET Demo\\32DisconnectedArch\\Program.cs",
+              "RelativeToolTip": "32DisconnectedArch\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-21T09:58:17.439Z",
+              "WhenOpened": "2024-12-23T12:12:51.335Z",
               "EditorCaption": ""
             }
           ]
