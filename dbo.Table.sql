@@ -1,6 +1,7 @@
-﻿CREATE TABLE [dbo].[Table]
-(
-	[Id] INT NOT NULL PRIMARY KEY,
-	[Name]varchar(50),
-	[Address]varchar(50)
-)
+﻿CREATE TABLE [dbo].[Emp] (
+    [Id]      INT          IDENTITY (1, 1) NOT NULL,
+    [Name]    VARCHAR (50) NULL,
+    [Address] VARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([Id] ASC)
+);
+

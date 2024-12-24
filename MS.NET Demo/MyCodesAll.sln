@@ -67,6 +67,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31ConnectedArchitecture", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "32DisconnectedArch", "32DisconnectedArch\32DisconnectedArch.csproj", "{C909A70A-B2CF-4D1C-B71B-663AAAF0FB33}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33ConnectedWithDatasets", "33ConnectedWithDatasets\33ConnectedWithDatasets.csproj", "{57799B64-8793-4ADF-B9D9-7928371004D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34EntityFramework", "34EntityFramework\34EntityFramework.csproj", "{052451D2-53E5-43DF-ACCC-1D59A1EE3ABD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -193,6 +197,14 @@ Global
 		{C909A70A-B2CF-4D1C-B71B-663AAAF0FB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C909A70A-B2CF-4D1C-B71B-663AAAF0FB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C909A70A-B2CF-4D1C-B71B-663AAAF0FB33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57799B64-8793-4ADF-B9D9-7928371004D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57799B64-8793-4ADF-B9D9-7928371004D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57799B64-8793-4ADF-B9D9-7928371004D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57799B64-8793-4ADF-B9D9-7928371004D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{052451D2-53E5-43DF-ACCC-1D59A1EE3ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052451D2-53E5-43DF-ACCC-1D59A1EE3ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052451D2-53E5-43DF-ACCC-1D59A1EE3ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052451D2-53E5-43DF-ACCC-1D59A1EE3ABD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

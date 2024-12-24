@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("32DisconnectedArch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7482022a13368033fc159693e6d65f126810040a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+456e85a69c644d3666c881a4bd386d9da93d802c")]
 [assembly: System.Reflection.AssemblyProductAttribute("32DisconnectedArch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("32DisconnectedArch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
