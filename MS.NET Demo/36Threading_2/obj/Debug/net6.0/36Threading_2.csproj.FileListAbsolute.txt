@@ -1,0 +1,15 @@
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\bin\Debug\net6.0\36Threading_2.exe
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\bin\Debug\net6.0\36Threading_2.deps.json
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\bin\Debug\net6.0\36Threading_2.runtimeconfig.json
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\bin\Debug\net6.0\36Threading_2.dll
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\bin\Debug\net6.0\36Threading_2.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\obj\Debug\net6.0\36Threading_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\obj\Debug\net6.0\36Threading_2.AssemblyInfoInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\obj\Debug\net6.0\36Threading_2.AssemblyInfo.cs
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\obj\Debug\net6.0\36Threading_2.csproj.CoreCompileInputs.cache
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\obj\Debug\net6.0\36Threading_2.sourcelink.json
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\obj\Debug\net6.0\36Threading_2.dll
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\obj\Debug\net6.0\refint\36Threading_2.dll
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\obj\Debug\net6.0\36Threading_2.pdb
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\obj\Debug\net6.0\36Threading_2.genruntimeconfig.cache
+D:\Shreyas\MS.NET\MS.NET Demo\36Threading_2\obj\Debug\net6.0\ref\36Threading_2.dll

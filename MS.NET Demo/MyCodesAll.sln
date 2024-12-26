@@ -71,6 +71,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33ConnectedWithDatasets", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34EntityFramework", "34EntityFramework\34EntityFramework.csproj", "{052451D2-53E5-43DF-ACCC-1D59A1EE3ABD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35Threading", "35Threading\35Threading.csproj", "{25C2D0AB-20D8-4431-B9D7-FC002BBD9C90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36Threading_2", "36Threading_2\36Threading_2.csproj", "{A6A393A1-EABE-4E65-9730-C9A026D93F81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -205,6 +209,14 @@ Global
 		{052451D2-53E5-43DF-ACCC-1D59A1EE3ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{052451D2-53E5-43DF-ACCC-1D59A1EE3ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{052451D2-53E5-43DF-ACCC-1D59A1EE3ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25C2D0AB-20D8-4431-B9D7-FC002BBD9C90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25C2D0AB-20D8-4431-B9D7-FC002BBD9C90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25C2D0AB-20D8-4431-B9D7-FC002BBD9C90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25C2D0AB-20D8-4431-B9D7-FC002BBD9C90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6A393A1-EABE-4E65-9730-C9A026D93F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6A393A1-EABE-4E65-9730-C9A026D93F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6A393A1-EABE-4E65-9730-C9A026D93F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6A393A1-EABE-4E65-9730-C9A026D93F81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
