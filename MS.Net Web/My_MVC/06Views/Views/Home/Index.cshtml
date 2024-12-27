@@ -1,0 +1,28 @@
+﻿@using _06Views.Models
+
+
+<h1>From Index View</h1>
+@{
+    @foreach(var item in Model){
+
+        @if(item is Emp)
+        {
+            <p>Employees Details</p>
+            var emp = item as Emp;
+            <p>@emp.Id</p>
+            <p>@emp.Name</p>
+            <p>@emp.Address</p>
+        }
+
+        @if(item is Cust)
+        {
+            <p>Customers Details</p>
+            var cust = item as Cust;
+            <p>@cust.Id</p>
+            <p>@cust.Name</p>
+            <p>@cust.Address</p>
+        }
+    }
+}
+
+

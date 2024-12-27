@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{80448617-E038-43F7-B779-7DDEAFA17FFF}|05ViewBagViewData\\05ViewBagViewData.csproj|d:\\shreyas\\ms.net\\ms.net web\\my_mvc\\05viewbagviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80448617-E038-43F7-B779-7DDEAFA17FFF}|05ViewBagViewData\\05ViewBagViewData.csproj|solutionrelative:05viewbagviewdata\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80448617-E038-43F7-B779-7DDEAFA17FFF}|05ViewBagViewData\\05ViewBagViewData.csproj|d:\\shreyas\\ms.net\\ms.net web\\my_mvc\\05viewbagviewdata\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80448617-E038-43F7-B779-7DDEAFA17FFF}|05ViewBagViewData\\05ViewBagViewData.csproj|solutionrelative:05viewbagviewdata\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80448617-E038-43F7-B779-7DDEAFA17FFF}|05ViewBagViewData\\05ViewBagViewData.csproj|d:\\shreyas\\ms.net\\ms.net web\\my_mvc\\05viewbagviewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{80448617-E038-43F7-B779-7DDEAFA17FFF}|05ViewBagViewData\\05ViewBagViewData.csproj|solutionrelative:05viewbagviewdata\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{80448617-E038-43F7-B779-7DDEAFA17FFF}|05ViewBagViewData\\05ViewBagViewData.csproj|d:\\shreyas\\ms.net\\ms.net web\\my_mvc\\05viewbagviewdata\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{80448617-E038-43F7-B779-7DDEAFA17FFF}|05ViewBagViewData\\05ViewBagViewData.csproj|solutionrelative:05viewbagviewdata\\models\\emp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8A0E9769-8C15-46BE-BF8C-EEAEB992A70E}|09ActionResultFilter\\09ActionResultFilter.csproj|d:\\shreyas\\ms.net\\ms.net web\\my_mvc\\09actionresultfilter\\filters\\dynamiclayoutfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A0E9769-8C15-46BE-BF8C-EEAEB992A70E}|09ActionResultFilter\\09ActionResultFilter.csproj|solutionrelative:09actionresultfilter\\filters\\dynamiclayoutfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\05ViewBagViewData\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "05ViewBagViewData\\Views\\Home\\About.cshtml",
-              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\05ViewBagViewData\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "05ViewBagViewData\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T12:51:48.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\05ViewBagViewData\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "05ViewBagViewData\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\05ViewBagViewData\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "05ViewBagViewData\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-26T12:51:19.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Emp.cs",
-              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\05ViewBagViewData\\Models\\Emp.cs",
-              "RelativeDocumentMoniker": "05ViewBagViewData\\Models\\Emp.cs",
-              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\05ViewBagViewData\\Models\\Emp.cs",
-              "RelativeToolTip": "05ViewBagViewData\\Models\\Emp.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T12:49:09.108Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\05ViewBagViewData\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "05ViewBagViewData\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\05ViewBagViewData\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "05ViewBagViewData\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAAEAAAAAAAAAA==",
+              "Title": "DynamicLayoutFilter.cs",
+              "DocumentMoniker": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\09ActionResultFilter\\Filters\\DynamicLayoutFilter.cs",
+              "RelativeDocumentMoniker": "09ActionResultFilter\\Filters\\DynamicLayoutFilter.cs",
+              "ToolTip": "D:\\Shreyas\\MS.NET\\MS.Net Web\\My_MVC\\09ActionResultFilter\\Filters\\DynamicLayoutFilter.cs",
+              "RelativeToolTip": "09ActionResultFilter\\Filters\\DynamicLayoutFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T12:48:44.369Z",
+              "WhenOpened": "2024-12-27T12:59:32.201Z",
               "EditorCaption": ""
             }
           ]
